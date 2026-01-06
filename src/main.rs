@@ -126,3 +126,5 @@ fn calculate_strength(password: &str) -> &str {
         _ => "❌ Weak",
     }
 }
+
+//todo once i learn authorisation and authentication i will make this automatic - "The Cpanel way" and or maybe use it in a bigger project
